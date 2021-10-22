@@ -14,7 +14,7 @@
        Aşama 2: 2,6,22,27,16,18
        Aşama 3: 2,6,16,22,27,28
        Aşama 4: 2,6,16,18,22,27
-    2- O(n)
+    2- O(n^2)
     3- Average Case
     4- Average Case
   
