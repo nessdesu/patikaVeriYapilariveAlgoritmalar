@@ -1,0 +1,1 @@
+# patikaVeriYap-lar-veAlgoritmalar
